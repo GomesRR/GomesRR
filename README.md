@@ -1,8 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=GomesRR&color=006bed)
 
-<a href="https://github.com/GomesRR" title="Perfil de Ronilson">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GomesRR&theme=dark&show_icons=true" />
-</a>
 
 ### Olá, meu nome é Ronilson!
 
