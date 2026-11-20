@@ -6,8 +6,8 @@
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando Análisa e Desensenvolvimento de Sistemas no Unopar.
-- 💼 Trabalhando como Programador de Sistemas na Sinqia.
+- 🎓 Formado em Análise e Desensenvolvimento de Sistemas pela Unopar.
+- 💼 Trabalhando como Programador de Sistemas na Evertec.
 - 🌱 Aprendendo mais sobre Asp.Net e .NET.
 
 ## Minhas Skills
